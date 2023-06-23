@@ -64,7 +64,8 @@ body {
     border-radius: 5px;
     box-shadow: 8px 8px 8px #00000020,
         -5px -5px 8px #ffffff;
-    transition: 0.1s;
+    transition-property: all;
+    transition-duration: 0.1s;
 }
 
 
