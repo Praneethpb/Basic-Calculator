@@ -7,8 +7,8 @@
 }
 
 .container {
-    width: 335px;
-    height: 460px;
+    width: 302px;
+    height: 440px;
     /* background-color: red; */
 }
 
@@ -16,8 +16,8 @@
 .btns .row button {
     width: 40px;
     padding: 10px 0px;
-    margin: 15px 5px;
-    font-size: 20px;
+    margin: 15px 3px;
+    font-size: 15px;
 }
 
 
@@ -32,7 +32,7 @@
 
 
 .foot {
-    margin-top: 115px;
+    margin-top: 60px;
     font-size: 1.6rem;
     color: #8c4b4b;
     margin-bottom: -33px;
