@@ -1,0 +1,40 @@
+.body {
+    width: 430px;
+}
+
+.row {
+
+}
+
+.container {
+    width: 335px;
+    height: 460px;
+    /* background-color: red; */
+}
+
+
+.btns .row button {
+    width: 40px;
+    padding: 10px 0px;
+    margin: 15px 5px;
+    font-size: 20px;
+}
+
+
+.display #screen {
+    padding-right: 9px;
+    /* position: relative; */
+}
+
+
+
+
+
+
+.foot {
+    margin-top: 115px;
+    font-size: 1.6rem;
+    color: #8c4b4b;
+    margin-bottom: -33px;
+}
+
